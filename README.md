@@ -1,0 +1,2 @@
+# CursoRust
+Curso de Rust :)
